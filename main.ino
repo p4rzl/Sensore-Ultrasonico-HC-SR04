@@ -8,7 +8,7 @@ const char* ssid = "OnePlus Nord 2 5G";
 const char* password = "Luca1503";
 
 // Imposta le credenziali Firebase
-#define FIREBASE_HOST "bidone-arduino.firebaseio.com"
+#define FIREBASE_HOST "bidone-arduino-default-rtdb.europe-west1.firebasedatabase.app"
 #define FIREBASE_AUTH "f876d543-a23c-4987-b954-2e7890456789"
 
 // Crea un'istanza di Firebase
